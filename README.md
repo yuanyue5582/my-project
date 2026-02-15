@@ -1,5 +1,3 @@
-# README
-
 ## Project Overview
 
 This project implements multiple depression-filling algorithms for Digital Elevation Models (DEMs) used in hydrological analysis. The following algorithms are included:
