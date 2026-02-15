@@ -156,7 +156,7 @@ The output is a GeoTIFF file containing the depression‑filled DEM. Statistics 
 
 ## Tested Environment
 
-- **Operating System**: Windows 11 Home (64‑bit)
+- **Operating System**: Windows 11 Pro‌ (64‑bit)
 - **Compiler**: Microsoft Visual Studio 2022 (version 17.x)
 - **GDAL version**: 3.7.0
 
