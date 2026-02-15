@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Priority_flood_algorithms.vcxproj" Id="816d4b23-d8e7-4002-8b82-2c01cbb0361f" />
+</Solution>
